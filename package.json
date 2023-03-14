@@ -1,0 +1,22 @@
+{
+  "name": "s-bigbluebutton",
+  "version": "1.0.0",
+  "description": "library for bigbluebutton",
+  "main": "script/index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "bigbluebutton",
+    "bbb",
+    "api"
+  ],
+  "author": "Sachida Nand Ray",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.3.4",
+    "fast-xml-parser": "^4.1.3",
+    "hash.js": "^1.1.7",
+    "querystring": "^0.2.1"
+  }
+}
